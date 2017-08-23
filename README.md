@@ -1,2 +1,7 @@
-# DataStructures
-My process of learning DataStructures
+# 目录
+
+* ## 基础
+* ## 排序
+  - ### [选择排序](/选择排序.md)
+  - ### [插入排序](/插入排序.md)
+  - ### [希尔排序](/希尔排序.md)
